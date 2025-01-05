@@ -18,7 +18,7 @@
 
 **Microsoft Azure AI-900 Certified [visit](https://drive.google.com/file/d/1BsYKjOsSagqHSypBb90NX6Hj9j_HbFdL/view?usp=sharing)**
 
-**💬 Ask me about Data Science Tech Stacks , Data Engineering**
+**💬 Ask me about Data Science , Data Engineering Tech Stacks**
 
 **📫 Reach me : hellopraveennarasimman@gmail.com**
 
