@@ -8,7 +8,7 @@
 # Professional Background
 
 ## **Education**
-Bachelor of Engineering (BE) in Computer Science and Engineering
+ **Bachelor of Engineering (BE) in Computer Science and Engineering**
 
 ## **Multi-Cloud Certified**
 
