@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveendecode&label=Profile%20views&color=149414&style=flat" alt="praveendecode" /> </p>
 
-# About Me:
+# Professional Background:
 
 ## **Education**
 Bachelor of Engineering (BE) in Computer Science and Engineering
