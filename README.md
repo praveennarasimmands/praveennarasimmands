@@ -21,10 +21,10 @@ Bachelor of Engineering (BE) in Computer Science and Engineering
 
 ## **Areas of Expertise**
 
-   - Cloud Computing
-   - Data Science
-   - Data Engineering
-   - Technology Stacks in Data Engineering and Data Science
+   - **Cloud Computing**
+   - **Data Science**
+   - **Data Engineering**
+   - **Technology Stacks in Data Engineering and Data Science**
 
 **📫 Reach me : hellopraveennarasimman@gmail.com**
 
