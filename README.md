@@ -17,6 +17,8 @@ Bachelor of Engineering (BE) in Computer Science and Engineering
    - **Microsoft Azure Data Scientist Associate Certified [visit](https://www.linkedin.com/feed/update/urn:li:activity:7132991841938939905/)**
    - **Microsoft Azure AI-900 Certified [Visit](https://www.linkedin.com/feed/update/urn:li:activity:7115971119513276416/)**
 
+![2](https://github.com/user-attachments/assets/277c8e53-eff8-451a-9089-630262477189)
+
 ## **Areas of Expertise**
 
    - Cloud Computing
@@ -33,10 +35,7 @@ Bachelor of Engineering (BE) in Computer Science and Engineering
 
 
 
-# Cloud Certified On Both AWS And Azure:
 
-
-![2](https://github.com/user-attachments/assets/277c8e53-eff8-451a-9089-630262477189)
 
 
 
