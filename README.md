@@ -7,18 +7,22 @@
 
 # About Me:
 
- 
-**Graduated in BE Computer Science and Engineering**
+## **Education**
+Bachelor of Engineering (BE) in Computer Science and Engineering
 
-**AWS Certified ML Specialty [visit](https://www.linkedin.com/feed/update/urn:li:activity:7236245786932473856/)**
+**Multi-Cloud Certified**
 
-**AWS Certified Cloud Practitioner [visit](https://www.linkedin.com/feed/update/urn:li:activity:7194261331070361601/)**
+   - **AWS Certified Machine Learning – Specialty [visit](https://www.linkedin.com/feed/update/urn:li:activity:7236245786932473856/)**
+   - **AWS Certified Cloud Practitioner [visit](https://www.linkedin.com/feed/update/urn:li:activity:7194261331070361601/)**
+   - **Microsoft Azure Data Scientist Associate Certified [visit](https://www.linkedin.com/feed/update/urn:li:activity:7132991841938939905/)**
+   - **Microsoft Azure AI-900 Certified [Visit](https://www.linkedin.com/feed/update/urn:li:activity:7115971119513276416/)**
 
-**Microsoft Azure Data Scientist Associate Certified [visit](https://drive.google.com/file/d/1gBArS0xD2GDVsDqkyxf_MsjylDzJBfaZ/view)**
+## **Areas of Expertise**
 
-**Microsoft Azure AI-900 Certified [visit](https://drive.google.com/file/d/1BsYKjOsSagqHSypBb90NX6Hj9j_HbFdL/view?usp=sharing)**
-
-**💬 Ask me about Data Science , Data Engineering Tech Stacks**
+   - Cloud Computing
+   - Data Science
+   - Data Engineering
+   - Technology Stacks in Data Engineering and Data Science
 
 **📫 Reach me : hellopraveennarasimman@gmail.com**
 
